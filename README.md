@@ -1,4 +1,4 @@
-# Hi there, I'm Artem 👋
+# Hi there, I'm Artem
 
 ## I'm a beginner programmer and college student
 
