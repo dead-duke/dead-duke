@@ -17,6 +17,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=orange&color=white)](<https://github.com/deus-ex-m>)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red&color=white)](<https://github.com/deus-ex-m>)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue&color=white)](<https://github.com/deus-ex-m>)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=pink&color=white)](<https://github.com/deus-ex-m>)
 
 ### OS
 
