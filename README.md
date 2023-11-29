@@ -4,7 +4,7 @@
 
 ## I’m currently learning web development 🔭
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/naked_snake_451)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/dead-duke)
 
 ### Languages
 
